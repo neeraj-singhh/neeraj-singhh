@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a 3rd year Btech CSE student<br>I'm learning java+ DSA and web development
+B.Tech CSE @ Galgotias University | React · JavaScript · Python | Building real-world web apps
 
 
 ## 🌐 Socials:
